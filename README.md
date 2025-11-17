@@ -1,6 +1,13 @@
-# FLL Timer - Temporizador de Avaliação
+# FLL Timer - Temporizador de Avaliação [2.0.0] - 2025-11-17
 
-Temporizador oficial para **salas de avaliação do FIRST LEGO League (FLL)**.
+### Adicionado
+- Sonorização nos tempos iniciais e finais (1 minuto)
+- Suporte para troca de idioma na interface (PT-EN)
+
+### Melhorado
+- Cores na barra de progresso agora estão coerentes com a sonorização
+
+Temporizador para **salas de avaliação do FIRST LEGO League (FLL)**.
 
 ## Funcionalidades
 - Contagem regressiva por fase
@@ -9,6 +16,7 @@ Temporizador oficial para **salas de avaliação do FIRST LEGO League (FLL)**.
 - Logo oficial do FLL
 - Som de alerta
 - Botão **X** para fechar com segurança
+
 
 ## Fases (tempo oficial)
 1. Projeto de Inovação → 5 min  
